@@ -1,0 +1,35 @@
+@charset "utf-8";
+/* CSS Document */
+
+p{
+color:black;
+
+}
+
+
+body { 
+background-color: grey;
+}
+
+#img{
+    text-align: center;
+    color: grey;
+}
+h1{
+color: #FF8321;
+text-align: center;
+}
+
+
+#souris{
+    width : 100px;
+    height : 60px;
+    margin : 0 auto;
+    border : 2px solid black;
+    }
+    .rouge {
+    background-color:red;
+    }
+    .blanc {
+    background-color : white;
+    }
